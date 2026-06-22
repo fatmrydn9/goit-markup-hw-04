@@ -105,6 +105,8 @@ img {
 }
 .hero {
   background-color: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .hero .container {
   display: flex;
@@ -262,4 +264,8 @@ img {
 .footer {
   background-color: #2e2f42;
   padding: 100px 0;
+}
+.hero.section {
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
