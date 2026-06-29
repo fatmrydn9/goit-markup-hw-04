@@ -150,6 +150,26 @@ img {
   margin-bottom: 8px;
   color: #2e2f42;
 }
+
+.feature-icon-container {
+  width: 264px;
+  height: 112px;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  background-color: #f4f4fd;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 8px;
+}
+.feature-icon {
+  height: 64px;
+  width: 64px;
+  fill: #2e2f42;
+}
+
 .feature-text {
   font-family: "Roboto", sans-serif;
   font-size: 16px;
